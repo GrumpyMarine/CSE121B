@@ -4,7 +4,7 @@
 const fullName = "Jason Kiger";
 /* Step 2 - Variables */
 const currentYear = new Date().getFullYear();
-const profilePicture = "images/profile.png";
+const profilePicture = "images/Profile.png";
 
 /* Step 3 - Element Variables */
 const foodElement = document.getElementById("food");
